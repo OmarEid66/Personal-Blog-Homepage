@@ -1,4 +1,5 @@
 # 📝 Personal-Blog-Homepage
+This project was completed as part of the Elevvo Front-End Web Development Internship.
 A responsive personal blog homepage built with HTML, CSS, and JavaScript. Display blog posts in a clean card layout with filtering and search functionality.
 
 ✨ Features
